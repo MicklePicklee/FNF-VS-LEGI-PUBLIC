@@ -44,6 +44,8 @@ class Character extends FlxAnimate
 	**/
 	public static final DEFAULT_CHARACTER:String = 'bf';
 
+	// i stole all this from shadzs psych fork im sorry
+
 	public var animOffsets:Map<String, Array<Dynamic>>;
 	public var debugMode:Bool = false;
 	public var extraData:Map<String, Dynamic> = new Map<String, Dynamic>();
