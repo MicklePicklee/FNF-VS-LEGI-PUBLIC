@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="mickle.png" width="2352" height="367">
+	<SubTexture name="idle instance 10000" x="1" y="1" width="304" height="353" frameX="-0" frameY="-12" frameWidth="305" frameHeight="365"/>
+	<SubTexture name="idle instance 10001" x="1" y="1" width="304" height="353" frameX="-0" frameY="-12" frameWidth="305" frameHeight="365"/>
+	<SubTexture name="idle instance 10002" x="308" y="1" width="302" height="354" frameX="-0" frameY="-11" frameWidth="305" frameHeight="365"/>
+	<SubTexture name="idle instance 10003" x="613" y="1" width="302" height="354" frameX="-0" frameY="-11" frameWidth="305" frameHeight="365"/>
+	<SubTexture name="idle instance 10004" x="918" y="1" width="286" height="364" frameX="-16" frameY="-1" frameWidth="305" frameHeight="365"/>
+	<SubTexture name="idle instance 10005" x="1207" y="1" width="286" height="364" frameX="-16" frameY="-1" frameWidth="305" frameHeight="365"/>
+	<SubTexture name="idle instance 10006" x="1496" y="1" width="283" height="365" frameX="-19" frameY="-0" frameWidth="305" frameHeight="365"/>
+	<SubTexture name="idle instance 10007" x="1782" y="1" width="283" height="365" frameX="-19" frameY="-0" frameWidth="305" frameHeight="365"/>
+	<SubTexture name="idle instance 10008" x="1782" y="1" width="283" height="365" frameX="-19" frameY="-0" frameWidth="305" frameHeight="365"/>
+	<SubTexture name="idle instance 10009" x="2068" y="1" width="283" height="365" frameX="-19" frameY="-0" frameWidth="305" frameHeight="365"/>
+	<SubTexture name="idle instance 10010" x="2068" y="1" width="283" height="365" frameX="-19" frameY="-0" frameWidth="305" frameHeight="365"/>
+	<SubTexture name="idle instance 10011" x="2068" y="1" width="283" height="365" frameX="-19" frameY="-0" frameWidth="305" frameHeight="365"/>
+	<SubTexture name="idle instance 10012" x="2068" y="1" width="283" height="365" frameX="-19" frameY="-0" frameWidth="305" frameHeight="365"/>
+	<SubTexture name="idle instance 10013" x="2068" y="1" width="283" height="365" frameX="-19" frameY="-0" frameWidth="305" frameHeight="365"/>
+</TextureAtlas>

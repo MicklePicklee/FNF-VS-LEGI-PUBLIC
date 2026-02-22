@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="doddleSprites.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hovering0000" x="2" y="2" width="155" height="132" frameX="0" frameY="-4" frameWidth="155" frameHeight="136"/>
+	<SubTexture name="hovering0001" x="2" y="2" width="155" height="132" frameX="0" frameY="-4" frameWidth="155" frameHeight="136"/>
+	<SubTexture name="hovering0002" x="162" y="2" width="153" height="135" frameX="-1" frameY="-1" frameWidth="155" frameHeight="136"/>
+	<SubTexture name="hovering0003" x="162" y="2" width="153" height="135" frameX="-1" frameY="-1" frameWidth="155" frameHeight="136"/>
+	<SubTexture name="hovering0004" x="320" y="2" width="150" height="135" frameX="-3" frameY="0" frameWidth="155" frameHeight="136"/>
+	<SubTexture name="hovering0005" x="320" y="2" width="150" height="135" frameX="-3" frameY="0" frameWidth="155" frameHeight="136"/>
+	<SubTexture name="hovering0006" x="2" y="142" width="153" height="134" frameX="-2" frameY="-2" frameWidth="155" frameHeight="136"/>
+	<SubTexture name="hovering0007" x="2" y="142" width="153" height="134" frameX="-2" frameY="-2" frameWidth="155" frameHeight="136"/>
+	<SubTexture name="idle0000" x="160" y="142" width="155" height="130"/>
+	<SubTexture name="selected0000" x="320" y="142" width="176" height="93" frameX="0" frameY="-43" frameWidth="176" frameHeight="136"/>
+	<SubTexture name="selected0001" x="320" y="142" width="176" height="93" frameX="0" frameY="-43" frameWidth="176" frameHeight="136"/>
+	<SubTexture name="selected0002" x="2" y="281" width="151" height="134" frameX="-13" frameY="0" frameWidth="176" frameHeight="136"/>
+	<SubTexture name="selected0003" x="2" y="281" width="151" height="134" frameX="-13" frameY="0" frameWidth="176" frameHeight="136"/>
+	<SubTexture name="selected0004" x="158" y="281" width="153" height="133" frameX="-12" frameY="-1" frameWidth="176" frameHeight="136"/>
+	<SubTexture name="selected0005" x="158" y="281" width="153" height="133" frameX="-12" frameY="-1" frameWidth="176" frameHeight="136"/>
+</TextureAtlas>

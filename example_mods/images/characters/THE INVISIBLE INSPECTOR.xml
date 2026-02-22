@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="THE INVISIBLE INSPECTOR.png">
+	<SubTexture name="null instance 10000" x="2" y="2" width="1" height="1"/>
+</TextureAtlas>

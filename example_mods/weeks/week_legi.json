@@ -1,0 +1,31 @@
+{
+	"storyName": "Strummin' Struggles",
+	"difficulties": "Normal, Double Or Nothing",
+	"hideFreeplay": false,
+	"weekBackground": "LEGI",
+	"freeplayColor": [
+		50,
+		25,
+		175
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"legi",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Peer Pressure",
+			"legi-1",
+			[
+				86,
+				100,
+				230
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": false,
+	"weekName": "week_legi"
+}

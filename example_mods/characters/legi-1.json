@@ -1,0 +1,71 @@
+{
+	"animations": [
+		{
+			"offsets": [0, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "LEGI Sprites/LEGI Idle Dance"
+		},
+		{
+			"offsets": [18, 11],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEGI Sprites/LEGI Note Left"
+		},
+		{
+			"offsets": [-10, -41],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "LEGI Sprites/LEGI Note Down"
+		},
+		{
+			"offsets": [-18, 8],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "LEGI Sprites/LEGI Note Up"
+		},
+		{
+			"offsets": [-24, -9],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "LEGI Sprites/LEGI Note Right"
+		},
+		{
+			"offsets": [8, 2],
+			"loop": false,
+			"fps": 24,
+			"anim": "err urr",
+			"indices": [],
+			"name": "LEGI Sprites/LEGI ERR URR"
+		},
+		{
+			"offsets": [60, 10],
+			"loop": false,
+			"fps": 24,
+			"anim": "think",
+			"indices": [],
+			"name": "LEGI Sprites/LEGI Think"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/legiSprites/pp/legiPhase1",
+	"position": [70, 200],
+	"healthicon": "legi-1",
+	"flip_x": false,
+	"healthbar_colors": [165, 188, 235],
+	"camera_position": [0, -80],
+	"sing_duration": 3,
+	"scale": 1,
+	"_editor_isPlayer": false
+}
