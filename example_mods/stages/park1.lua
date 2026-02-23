@@ -28,11 +28,11 @@ function onCreate()
 	setScrollFactor('middleGround', 1, 1);
 
 	if getProperty('gf.curCharacter') ~= 'gf' then
-		makeFlxAnimateSprite('gff', 400, 135, 'characters/gf')
-		addAnimationBySymbolIndices('gff', 'l', 'GF Dance', {30, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14})
-		addAnimationBySymbolIndices('gff', 'r', 'GF Dance', {15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29})
-		playAnim('gff', 'l', true)
+		makeAnimatedLuaSprite('gff', 'characters/gfAssets', 400, 135)
+		addAnimationByIndices('gff', 'l', 'GF Dance instance 100', {30, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14})
+		addAnimationByIndices('gff', 'r', 'GF Dance instance 100', {15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29})
 		setScrollFactor('gff', 1, 1);
+		playAnim('gff', 'l', true)
 	end
 
 	setScrollFactor('gf', 1, 1);

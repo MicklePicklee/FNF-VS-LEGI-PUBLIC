@@ -2,35 +2,35 @@
 <!--
 Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
 -->
-<TextureAtlas imagePath="legiTitle.png" width="1595" height="1253">
-	<SubTexture name="LEGI Dancing Beat instance 10000" x="1" y="1" width="531" height="311" frameX="-0" frameY="-4" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10001" x="1" y="1" width="531" height="311" frameX="-0" frameY="-4" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10002" x="1" y="1" width="531" height="311" frameX="-0" frameY="-4" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10003" x="1" y="315" width="531" height="311" frameX="-0" frameY="-4" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10004" x="1" y="315" width="531" height="311" frameX="-0" frameY="-4" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10005" x="1" y="629" width="528" height="310" frameX="-3" frameY="-2" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10006" x="1" y="629" width="528" height="310" frameX="-3" frameY="-2" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10007" x="1067" y="1" width="527" height="310" frameX="-4" frameY="-1" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10008" x="1067" y="1" width="527" height="310" frameX="-4" frameY="-1" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10009" x="1067" y="1" width="527" height="310" frameX="-4" frameY="-1" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10010" x="1067" y="1" width="527" height="310" frameX="-4" frameY="-1" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10011" x="1067" y="1" width="527" height="310" frameX="-4" frameY="-1" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10012" x="1067" y="1" width="527" height="310" frameX="-4" frameY="-1" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10013" x="1067" y="314" width="527" height="309" frameX="-4" frameY="-2" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10014" x="1067" y="314" width="527" height="309" frameX="-4" frameY="-2" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10015" x="535" y="1" width="529" height="306" frameX="-5" frameY="-4" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10016" x="535" y="1" width="529" height="306" frameX="-5" frameY="-4" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10017" x="535" y="310" width="529" height="306" frameX="-5" frameY="-4" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10018" x="535" y="619" width="529" height="307" frameX="-5" frameY="-4" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10019" x="535" y="619" width="529" height="307" frameX="-5" frameY="-4" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10020" x="1067" y="626" width="527" height="309" frameX="-4" frameY="-2" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10021" x="1067" y="626" width="527" height="309" frameX="-4" frameY="-2" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10022" x="1063" y="938" width="527" height="310" frameX="-4" frameY="-1" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10023" x="1063" y="938" width="527" height="310" frameX="-4" frameY="-1" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10024" x="1" y="942" width="527" height="310" frameX="-4" frameY="-1" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10025" x="1" y="942" width="527" height="310" frameX="-4" frameY="-1" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10026" x="1" y="942" width="527" height="310" frameX="-4" frameY="-1" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10027" x="1" y="942" width="527" height="310" frameX="-4" frameY="-1" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10028" x="532" y="929" width="528" height="313" frameX="-3" frameY="-0" frameWidth="534" frameHeight="316"/>
-	<SubTexture name="LEGI Dancing Beat instance 10029" x="532" y="929" width="528" height="313" frameX="-3" frameY="-0" frameWidth="534" frameHeight="316"/>
+<TextureAtlas imagePath="legiTitle.png" width="1595" height="1252">
+	<SubTexture name="LEGI Dancing Beat0000" x="1" y="1" width="531" height="312" frameX="-0" frameY="-3" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0001" x="1" y="1" width="531" height="312" frameX="-0" frameY="-3" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0002" x="1" y="1" width="531" height="312" frameX="-0" frameY="-3" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0003" x="1" y="316" width="531" height="312" frameX="-0" frameY="-3" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0004" x="1" y="316" width="531" height="312" frameX="-0" frameY="-3" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0005" x="1" y="631" width="528" height="309" frameX="-3" frameY="-2" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0006" x="1" y="631" width="528" height="309" frameX="-3" frameY="-2" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0007" x="1067" y="1" width="527" height="309" frameX="-4" frameY="-1" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0008" x="1067" y="1" width="527" height="309" frameX="-4" frameY="-1" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0009" x="1067" y="1" width="527" height="309" frameX="-4" frameY="-1" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0010" x="1067" y="1" width="527" height="309" frameX="-4" frameY="-1" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0011" x="1067" y="1" width="527" height="309" frameX="-4" frameY="-1" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0012" x="1067" y="1" width="527" height="309" frameX="-4" frameY="-1" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0013" x="1" y="943" width="527" height="308" frameX="-4" frameY="-2" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0014" x="1" y="943" width="527" height="308" frameX="-4" frameY="-2" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0015" x="535" y="1" width="529" height="306" frameX="-5" frameY="-3" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0016" x="535" y="1" width="529" height="306" frameX="-5" frameY="-3" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0017" x="535" y="310" width="529" height="306" frameX="-5" frameY="-3" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0018" x="535" y="619" width="529" height="308" frameX="-5" frameY="-3" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0019" x="535" y="619" width="529" height="308" frameX="-5" frameY="-3" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0020" x="1067" y="313" width="527" height="308" frameX="-4" frameY="-2" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0021" x="1067" y="313" width="527" height="308" frameX="-4" frameY="-2" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0022" x="1067" y="624" width="527" height="309" frameX="-4" frameY="-1" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0023" x="1067" y="624" width="527" height="309" frameX="-4" frameY="-1" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0024" x="1063" y="936" width="527" height="309" frameX="-4" frameY="-1" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0025" x="1063" y="936" width="527" height="309" frameX="-4" frameY="-1" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0026" x="1063" y="936" width="527" height="309" frameX="-4" frameY="-1" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0027" x="1063" y="936" width="527" height="309" frameX="-4" frameY="-1" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0028" x="532" y="930" width="528" height="312" frameX="-3" frameY="-0" frameWidth="534" frameHeight="315"/>
+	<SubTexture name="LEGI Dancing Beat0029" x="532" y="930" width="528" height="312" frameX="-3" frameY="-0" frameWidth="534" frameHeight="315"/>
 </TextureAtlas>

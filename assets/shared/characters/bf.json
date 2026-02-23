@@ -5,7 +5,7 @@
 			"offsets": [0, 0],
 			"anim": "idle",
 			"fps": 24,
-			"name": "Sprites/BF Idle Dance",
+			"name": "BF Idle Dance",
 			"indices": []
 		},
 		{
@@ -13,7 +13,7 @@
 			"offsets": [6, -13],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "Sprites/BF Note Left",
+			"name": "BF Note Left",
 			"indices": []
 		},
 		{
@@ -21,7 +21,7 @@
 			"offsets": [-4, -47],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "Sprites/BF Note Down",
+			"name": "BF Note Down",
 			"indices": []
 		},
 		{
@@ -29,7 +29,7 @@
 			"offsets": [-6, 24],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "Sprites/BF Note Up",
+			"name": "BF Note Up",
 			"indices": []
 		},
 		{
@@ -37,7 +37,7 @@
 			"offsets": [30, -10],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "Sprites/BF Note Right",
+			"name": "BF Note Right",
 			"indices": []
 		},
 		{
@@ -45,7 +45,7 @@
 			"offsets": [9, -13],
 			"anim": "singLEFTmiss",
 			"fps": 24,
-			"name": "Sprites/BF Miss Note Left",
+			"name": "BF Miss Note Left",
 			"indices": []
 		},
 		{
@@ -53,7 +53,7 @@
 			"offsets": [0, -50],
 			"anim": "singDOWNmiss",
 			"fps": 24,
-			"name": "Sprites/BF Miss Note Down",
+			"name": "BF Miss Note Down",
 			"indices": []
 		},
 		{
@@ -61,7 +61,7 @@
 			"offsets": [25, -10],
 			"anim": "singRIGHTmiss",
 			"fps": 24,
-			"name": "Sprites/BF Miss Note Right",
+			"name": "BF Miss Note Right",
 			"indices": []
 		},
 		{
@@ -69,13 +69,13 @@
 			"offsets": [-5, 29],
 			"anim": "singUPmiss",
 			"fps": 24,
-			"name": "Sprites/BF Miss Note Up",
+			"name": "BF Miss Note Up",
 			"indices": []
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
-	"image": "characters/bf",
+	"image": "characters/bfAssets",
 	"position": [40, 340],
 	"healthicon": "bf",
 	"flip_x": true,

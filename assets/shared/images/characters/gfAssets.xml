@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="gfAssets.png" width="2917" height="2978">
+	<SubTexture name="GF Dance instance 10000" x="2200" y="1512" width="715" height="753" rotated="true" frameX="-3" frameY="-4" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10001" x="1" y="1" width="758" height="716" frameX="-0" frameY="-4" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10002" x="1" y="1" width="758" height="716" frameX="-0" frameY="-4" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10003" x="2201" y="757" width="715" height="752" rotated="true" frameX="-4" frameY="-4" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10004" x="2201" y="757" width="715" height="752" rotated="true" frameX="-4" frameY="-4" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10005" x="1484" y="1" width="718" height="753" rotated="true" frameX="-3" frameY="-1" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10006" x="1484" y="1" width="718" height="753" rotated="true" frameX="-3" frameY="-1" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10007" x="1" y="720" width="753" height="719" frameX="-3" frameY="-0" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10008" x="1" y="720" width="753" height="719" frameX="-3" frameY="-0" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10009" x="1" y="720" width="753" height="719" frameX="-3" frameY="-0" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10010" x="762" y="1" width="719" height="753" rotated="true" frameX="-3" frameY="-0" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10011" x="762" y="1" width="719" height="753" rotated="true" frameX="-3" frameY="-0" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10012" x="762" y="1" width="719" height="753" rotated="true" frameX="-3" frameY="-0" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10013" x="757" y="757" width="719" height="753" rotated="true" frameX="-3" frameY="-0" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10014" x="757" y="757" width="719" height="753" rotated="true" frameX="-3" frameY="-0" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10015" x="2205" y="1" width="711" height="752" rotated="true" frameX="-4" frameY="-8" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10016" x="757" y="1513" width="712" height="758" rotated="true" frameX="-0" frameY="-8" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10017" x="757" y="1513" width="712" height="758" rotated="true" frameX="-0" frameY="-8" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10018" x="1472" y="2268" width="753" height="709" frameX="-3" frameY="-10" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10019" x="1472" y="2268" width="753" height="709" frameX="-3" frameY="-10" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10020" x="1" y="2164" width="753" height="716" frameX="-3" frameY="-3" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10021" x="1" y="2164" width="753" height="716" frameX="-3" frameY="-3" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10022" x="1479" y="1512" width="718" height="753" rotated="true" frameX="-3" frameY="-1" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10023" x="1479" y="1512" width="718" height="753" rotated="true" frameX="-3" frameY="-1" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10024" x="1479" y="1512" width="718" height="753" rotated="true" frameX="-3" frameY="-1" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10025" x="1479" y="757" width="719" height="752" rotated="true" frameX="-4" frameY="-0" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10026" x="1479" y="757" width="719" height="752" rotated="true" frameX="-4" frameY="-0" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10027" x="1479" y="757" width="719" height="752" rotated="true" frameX="-4" frameY="-0" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10028" x="1" y="1442" width="753" height="719" frameX="-3" frameY="-0" frameWidth="758" frameHeight="720"/>
+	<SubTexture name="GF Dance instance 10029" x="1" y="1442" width="753" height="719" frameX="-3" frameY="-0" frameWidth="758" frameHeight="720"/>
+</TextureAtlas>

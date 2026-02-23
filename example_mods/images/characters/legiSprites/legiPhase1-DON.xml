@@ -2,326 +2,326 @@
 <!--
 Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
 -->
-<TextureAtlas imagePath="legiPhase1-DON.png" width="8141" height="811">
-	<SubTexture name="LEGI HEY!!0000" x="4890" y="328" width="607" height="449" rotated="true" frameX="-0" frameY="-7" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0001" x="4890" y="328" width="607" height="449" rotated="true" frameX="-0" frameY="-7" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0002" x="4890" y="328" width="607" height="449" rotated="true" frameX="-0" frameY="-7" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0003" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0004" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0005" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0006" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0007" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0008" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0009" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0010" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0011" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0012" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0013" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0014" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0015" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0016" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0017" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0018" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0019" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0020" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0021" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0022" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0023" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0024" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0025" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0026" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0027" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0028" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0029" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0030" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0031" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0032" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0033" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0034" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0035" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0036" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0037" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0038" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0039" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0040" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0041" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0042" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0043" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0044" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0045" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0046" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0047" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0048" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0049" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0050" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0051" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0052" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0053" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0054" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0055" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0056" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0057" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0058" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0059" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0060" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0061" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0062" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0063" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0064" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0065" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0066" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0067" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0068" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0069" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0070" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0071" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0072" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0073" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0074" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0075" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0076" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0077" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0078" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0079" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0080" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0081" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0082" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0083" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0084" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0085" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0086" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0087" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0088" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0089" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0090" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0091" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0092" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0093" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0094" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0095" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0096" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0097" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0098" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0099" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0100" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0101" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0102" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0103" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0104" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0105" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0106" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0107" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0108" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0109" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0110" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0111" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0112" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0113" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0114" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0115" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0116" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0117" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0118" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0119" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0120" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0121" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0122" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0123" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0124" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0125" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0126" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0127" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0128" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0129" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0130" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0131" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0132" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0133" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0134" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0135" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0136" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0137" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0138" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0139" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0140" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0141" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0142" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0143" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0144" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0145" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0146" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0147" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0148" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0149" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0150" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0151" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0152" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0153" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0154" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0155" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0156" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0157" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0158" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0159" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0160" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0161" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0162" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0163" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0164" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0165" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0166" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0167" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0168" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0169" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0170" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0171" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0172" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0173" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0174" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0175" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0176" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0177" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0178" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0179" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0180" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0181" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0182" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0183" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0184" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0185" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0186" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0187" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0188" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0189" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0190" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0191" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0192" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0193" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0194" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0195" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0196" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0197" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0198" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0199" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0200" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0201" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0202" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0203" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0204" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0205" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0206" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0207" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0208" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0209" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0210" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0211" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0212" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0213" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0214" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0215" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0216" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0217" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0218" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0219" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0220" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0221" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0222" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0223" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0224" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0225" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0226" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0227" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0228" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0229" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0230" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0231" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0232" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0233" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0234" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0235" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0236" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0237" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0238" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI HEY!!0239" x="4272" y="328" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
-	<SubTexture name="LEGI Idle Dance0000" x="6592" y="1" width="602" height="328" rotated="true" frameX="-23" frameY="-6" frameWidth="371" frameHeight="608"/>
-	<SubTexture name="LEGI Idle Dance0001" x="6592" y="1" width="602" height="328" rotated="true" frameX="-23" frameY="-6" frameWidth="371" frameHeight="608"/>
-	<SubTexture name="LEGI Idle Dance0002" x="1791" y="325" width="605" height="333" rotated="true" frameX="-27" frameY="-3" frameWidth="371" frameHeight="608"/>
-	<SubTexture name="LEGI Idle Dance0003" x="1791" y="325" width="605" height="333" rotated="true" frameX="-27" frameY="-3" frameWidth="371" frameHeight="608"/>
-	<SubTexture name="LEGI Idle Dance0004" x="1791" y="325" width="605" height="333" rotated="true" frameX="-27" frameY="-3" frameWidth="371" frameHeight="608"/>
-	<SubTexture name="LEGI Idle Dance0005" x="1" y="313" width="595" height="330" rotated="true" frameX="-41" frameY="-13" frameWidth="371" frameHeight="608"/>
-	<SubTexture name="LEGI Idle Dance0006" x="1" y="313" width="595" height="330" rotated="true" frameX="-41" frameY="-13" frameWidth="371" frameHeight="608"/>
-	<SubTexture name="LEGI Idle Dance0007" x="7197" y="1" width="591" height="329" rotated="true" frameX="-38" frameY="-17" frameWidth="371" frameHeight="608"/>
-	<SubTexture name="LEGI Idle Dance0008" x="7197" y="1" width="591" height="329" rotated="true" frameX="-38" frameY="-17" frameWidth="371" frameHeight="608"/>
-	<SubTexture name="LEGI Idle Dance0009" x="7197" y="1" width="591" height="329" rotated="true" frameX="-38" frameY="-17" frameWidth="371" frameHeight="608"/>
-	<SubTexture name="LEGI Idle Dance0010" x="3595" y="1" width="594" height="323" rotated="true" frameX="-26" frameY="-14" frameWidth="371" frameHeight="608"/>
-	<SubTexture name="LEGI Idle Dance0011" x="3595" y="1" width="594" height="323" rotated="true" frameX="-26" frameY="-14" frameWidth="371" frameHeight="608"/>
-	<SubTexture name="LEGI Idle Dance0012" x="3595" y="1" width="594" height="323" rotated="true" frameX="-26" frameY="-14" frameWidth="371" frameHeight="608"/>
-	<SubTexture name="LEGI Idle Dance0013" x="2374" y="1" width="607" height="321" rotated="true" frameX="-10" frameY="-1" frameWidth="371" frameHeight="608"/>
-	<SubTexture name="LEGI Idle Dance0014" x="2374" y="1" width="607" height="321" rotated="true" frameX="-10" frameY="-1" frameWidth="371" frameHeight="608"/>
-	<SubTexture name="LEGI Idle Dance0015" x="2984" y="1" width="608" height="321" rotated="true" frameX="-5" frameY="-0" frameWidth="371" frameHeight="608"/>
-	<SubTexture name="LEGI Idle Dance0016" x="4789" y="1" width="608" height="324" rotated="true" frameX="-5" frameY="-0" frameWidth="371" frameHeight="608"/>
-	<SubTexture name="LEGI Idle Dance0017" x="4789" y="1" width="608" height="324" rotated="true" frameX="-5" frameY="-0" frameWidth="371" frameHeight="608"/>
-	<SubTexture name="LEGI Idle Dance0018" x="1195" y="314" width="593" height="332" rotated="true" frameX="-0" frameY="-15" frameWidth="371" frameHeight="608"/>
-	<SubTexture name="LEGI Idle Dance0019" x="1195" y="314" width="593" height="332" rotated="true" frameX="-0" frameY="-15" frameWidth="371" frameHeight="608"/>
-	<SubTexture name="LEGI Idle Dance0020" x="599" y="313" width="593" height="330" rotated="true" frameX="-2" frameY="-15" frameWidth="371" frameHeight="608"/>
-	<SubTexture name="LEGI Idle Dance0021" x="6002" y="1" width="587" height="327" rotated="true" frameX="-11" frameY="-21" frameWidth="371" frameHeight="608"/>
-	<SubTexture name="LEGI Idle Dance0022" x="6002" y="1" width="587" height="327" rotated="true" frameX="-11" frameY="-21" frameWidth="371" frameHeight="608"/>
-	<SubTexture name="LEGI Idle Dance0023" x="6002" y="1" width="587" height="327" rotated="true" frameX="-11" frameY="-21" frameWidth="371" frameHeight="608"/>
-	<SubTexture name="LEGI Idle Dance0024" x="5400" y="1" width="599" height="324" rotated="true" frameX="-19" frameY="-8" frameWidth="371" frameHeight="608"/>
-	<SubTexture name="LEGI Idle Dance0025" x="5400" y="1" width="599" height="324" rotated="true" frameX="-19" frameY="-8" frameWidth="371" frameHeight="608"/>
-	<SubTexture name="LEGI Note Down0000" x="2399" y="325" width="514" height="348" frameX="-0" frameY="-4" frameWidth="514" frameHeight="352"/>
-	<SubTexture name="LEGI Note Down0001" x="2399" y="325" width="514" height="348" frameX="-0" frameY="-4" frameWidth="514" frameHeight="352"/>
-	<SubTexture name="LEGI Note Down0002" x="7791" y="1" width="349" height="511" rotated="true" frameX="-1" frameY="-0" frameWidth="514" frameHeight="352"/>
-	<SubTexture name="LEGI Note Down0003" x="7791" y="1" width="349" height="511" rotated="true" frameX="-1" frameY="-0" frameWidth="514" frameHeight="352"/>
-	<SubTexture name="LEGI Note Down0004" x="7791" y="1" width="349" height="511" rotated="true" frameX="-1" frameY="-0" frameWidth="514" frameHeight="352"/>
-	<SubTexture name="LEGI Note Down0005" x="7791" y="1" width="349" height="511" rotated="true" frameX="-1" frameY="-0" frameWidth="514" frameHeight="352"/>
-	<SubTexture name="LEGI Note Down0006" x="7791" y="1" width="349" height="511" rotated="true" frameX="-1" frameY="-0" frameWidth="514" frameHeight="352"/>
-	<SubTexture name="LEGI Note Down0007" x="7791" y="1" width="349" height="511" rotated="true" frameX="-1" frameY="-0" frameWidth="514" frameHeight="352"/>
-	<SubTexture name="LEGI Note Down0008" x="7791" y="1" width="349" height="511" rotated="true" frameX="-1" frameY="-0" frameWidth="514" frameHeight="352"/>
-	<SubTexture name="LEGI Note Down0009" x="7791" y="1" width="349" height="511" rotated="true" frameX="-1" frameY="-0" frameWidth="514" frameHeight="352"/>
-	<SubTexture name="LEGI Note Left0000" x="5500" y="328" width="499" height="461" frameX="-0" frameY="-4" frameWidth="500" frameHeight="465"/>
-	<SubTexture name="LEGI Note Left0001" x="5500" y="328" width="499" height="461" frameX="-0" frameY="-4" frameWidth="500" frameHeight="465"/>
-	<SubTexture name="LEGI Note Left0002" x="6002" y="331" width="492" height="465" frameX="-8" frameY="-0" frameWidth="500" frameHeight="465"/>
-	<SubTexture name="LEGI Note Left0003" x="6002" y="331" width="492" height="465" frameX="-8" frameY="-0" frameWidth="500" frameHeight="465"/>
-	<SubTexture name="LEGI Note Left0004" x="6002" y="331" width="492" height="465" frameX="-8" frameY="-0" frameWidth="500" frameHeight="465"/>
-	<SubTexture name="LEGI Note Left0005" x="6002" y="331" width="492" height="465" frameX="-8" frameY="-0" frameWidth="500" frameHeight="465"/>
-	<SubTexture name="LEGI Note Left0006" x="6002" y="331" width="492" height="465" frameX="-8" frameY="-0" frameWidth="500" frameHeight="465"/>
-	<SubTexture name="LEGI Note Left0007" x="6002" y="331" width="492" height="465" frameX="-8" frameY="-0" frameWidth="500" frameHeight="465"/>
-	<SubTexture name="LEGI Note Left0008" x="6002" y="331" width="492" height="465" frameX="-8" frameY="-0" frameWidth="500" frameHeight="465"/>
-	<SubTexture name="LEGI Note Left0009" x="6002" y="331" width="492" height="465" frameX="-8" frameY="-0" frameWidth="500" frameHeight="465"/>
-	<SubTexture name="LEGI Note Right0000" x="6497" y="332" width="537" height="473" frameX="-0" frameY="-4" frameWidth="537" frameHeight="477"/>
-	<SubTexture name="LEGI Note Right0001" x="6497" y="332" width="537" height="473" frameX="-0" frameY="-4" frameWidth="537" frameHeight="477"/>
-	<SubTexture name="LEGI Note Right0002" x="7037" y="333" width="529" height="477" frameX="-0" frameY="-0" frameWidth="537" frameHeight="477"/>
-	<SubTexture name="LEGI Note Right0003" x="7037" y="333" width="529" height="477" frameX="-0" frameY="-0" frameWidth="537" frameHeight="477"/>
-	<SubTexture name="LEGI Note Right0004" x="7037" y="333" width="529" height="477" frameX="-0" frameY="-0" frameWidth="537" frameHeight="477"/>
-	<SubTexture name="LEGI Note Right0005" x="7037" y="333" width="529" height="477" frameX="-0" frameY="-0" frameWidth="537" frameHeight="477"/>
-	<SubTexture name="LEGI Note Right0006" x="7037" y="333" width="529" height="477" frameX="-0" frameY="-0" frameWidth="537" frameHeight="477"/>
-	<SubTexture name="LEGI Note Right0007" x="7037" y="333" width="529" height="477" frameX="-0" frameY="-0" frameWidth="537" frameHeight="477"/>
-	<SubTexture name="LEGI Note Right0008" x="7037" y="333" width="529" height="477" frameX="-0" frameY="-0" frameWidth="537" frameHeight="477"/>
-	<SubTexture name="LEGI Note Right0009" x="7037" y="333" width="529" height="477" frameX="-0" frameY="-0" frameWidth="537" frameHeight="477"/>
-	<SubTexture name="LEGI Note Up0000" x="2916" y="327" width="680" height="432" rotated="true" frameX="-5" frameY="-0" frameWidth="437" frameHeight="680"/>
-	<SubTexture name="LEGI Note Up0001" x="2916" y="327" width="680" height="432" rotated="true" frameX="-5" frameY="-0" frameWidth="437" frameHeight="680"/>
-	<SubTexture name="LEGI Note Up0002" x="3599" y="327" width="670" height="434" rotated="true" frameX="-0" frameY="-9" frameWidth="437" frameHeight="680"/>
-	<SubTexture name="LEGI Note Up0003" x="3599" y="327" width="670" height="434" rotated="true" frameX="-0" frameY="-9" frameWidth="437" frameHeight="680"/>
-	<SubTexture name="LEGI Note Up0004" x="3599" y="327" width="670" height="434" rotated="true" frameX="-0" frameY="-9" frameWidth="437" frameHeight="680"/>
-	<SubTexture name="LEGI Note Up0005" x="3599" y="327" width="670" height="434" rotated="true" frameX="-0" frameY="-9" frameWidth="437" frameHeight="680"/>
-	<SubTexture name="LEGI Note Up0006" x="3599" y="327" width="670" height="434" rotated="true" frameX="-0" frameY="-9" frameWidth="437" frameHeight="680"/>
-	<SubTexture name="LEGI Note Up0007" x="3599" y="327" width="670" height="434" rotated="true" frameX="-0" frameY="-9" frameWidth="437" frameHeight="680"/>
-	<SubTexture name="LEGI Note Up0008" x="3599" y="327" width="670" height="434" rotated="true" frameX="-0" frameY="-9" frameWidth="437" frameHeight="680"/>
-	<SubTexture name="LEGI Note Up0009" x="3599" y="327" width="670" height="434" rotated="true" frameX="-0" frameY="-9" frameWidth="437" frameHeight="680"/>
-	<SubTexture name="LEGI Transition0000" x="1" y="1" width="591" height="309" rotated="true" frameX="-50" frameY="-6" frameWidth="359" frameHeight="601"/>
-	<SubTexture name="LEGI Transition0001" x="1" y="1" width="591" height="309" rotated="true" frameX="-50" frameY="-6" frameWidth="359" frameHeight="601"/>
-	<SubTexture name="LEGI Transition0002" x="595" y="1" width="585" height="309" rotated="true" frameX="-49" frameY="-12" frameWidth="359" frameHeight="601"/>
-	<SubTexture name="LEGI Transition0003" x="595" y="1" width="585" height="309" rotated="true" frameX="-49" frameY="-12" frameWidth="359" frameHeight="601"/>
-	<SubTexture name="LEGI Transition0004" x="1183" y="1" width="584" height="309" rotated="true" frameX="-8" frameY="-16" frameWidth="359" frameHeight="601"/>
-	<SubTexture name="LEGI Transition0005" x="1183" y="1" width="584" height="309" rotated="true" frameX="-8" frameY="-16" frameWidth="359" frameHeight="601"/>
-	<SubTexture name="LEGI Transition0006" x="1770" y="1" width="601" height="310" rotated="true" frameX="-5" frameY="-0" frameWidth="359" frameHeight="601"/>
-	<SubTexture name="LEGI Transition0007" x="1770" y="1" width="601" height="310" rotated="true" frameX="-5" frameY="-0" frameWidth="359" frameHeight="601"/>
-	<SubTexture name="LEGI Transition0008" x="4192" y="1" width="594" height="323" rotated="true" frameX="-0" frameY="-3" frameWidth="359" frameHeight="601"/>
-	<SubTexture name="LEGI Transition0009" x="4192" y="1" width="594" height="323" rotated="true" frameX="-0" frameY="-3" frameWidth="359" frameHeight="601"/>
-	<SubTexture name="LEGI Transition0010" x="4192" y="1" width="594" height="323" rotated="true" frameX="-0" frameY="-3" frameWidth="359" frameHeight="601"/>
-	<SubTexture name="LEGI Transition0011" x="4192" y="1" width="594" height="323" rotated="true" frameX="-0" frameY="-3" frameWidth="359" frameHeight="601"/>
-	<SubTexture name="LEGI Transition0012" x="4192" y="1" width="594" height="323" rotated="true" frameX="-0" frameY="-3" frameWidth="359" frameHeight="601"/>
-	<SubTexture name="LEGI Transition0013" x="4192" y="1" width="594" height="323" rotated="true" frameX="-0" frameY="-3" frameWidth="359" frameHeight="601"/>
-	<SubTexture name="LEGI Transition0014" x="4192" y="1" width="594" height="323" rotated="true" frameX="-0" frameY="-3" frameWidth="359" frameHeight="601"/>
+<TextureAtlas imagePath="legiPhase1-DON.png" width="2658" height="2412">
+	<SubTexture name="LEGI HEY!!0000" x="619" y="674" width="449" height="607" frameX="-0" frameY="-7" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0001" x="619" y="674" width="449" height="607" frameX="-0" frameY="-7" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0002" x="619" y="674" width="449" height="607" frameX="-0" frameY="-7" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0003" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0004" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0005" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0006" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0007" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0008" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0009" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0010" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0011" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0012" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0013" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0014" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0015" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0016" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0017" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0018" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0019" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0020" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0021" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0022" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0023" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0024" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0025" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0026" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0027" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0028" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0029" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0030" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0031" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0032" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0033" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0034" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0035" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0036" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0037" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0038" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0039" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0040" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0041" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0042" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0043" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0044" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0045" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0046" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0047" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0048" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0049" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0050" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0051" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0052" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0053" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0054" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0055" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0056" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0057" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0058" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0059" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0060" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0061" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0062" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0063" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0064" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0065" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0066" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0067" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0068" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0069" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0070" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0071" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0072" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0073" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0074" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0075" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0076" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0077" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0078" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0079" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0080" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0081" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0082" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0083" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0084" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0085" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0086" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0087" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0088" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0089" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0090" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0091" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0092" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0093" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0094" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0095" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0096" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0097" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0098" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0099" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0100" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0101" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0102" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0103" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0104" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0105" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0106" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0107" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0108" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0109" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0110" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0111" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0112" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0113" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0114" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0115" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0116" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0117" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0118" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0119" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0120" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0121" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0122" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0123" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0124" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0125" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0126" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0127" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0128" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0129" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0130" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0131" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0132" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0133" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0134" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0135" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0136" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0137" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0138" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0139" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0140" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0141" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0142" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0143" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0144" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0145" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0146" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0147" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0148" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0149" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0150" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0151" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0152" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0153" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0154" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0155" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0156" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0157" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0158" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0159" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0160" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0161" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0162" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0163" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0164" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0165" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0166" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0167" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0168" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0169" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0170" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0171" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0172" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0173" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0174" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0175" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0176" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0177" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0178" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0179" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0180" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0181" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0182" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0183" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0184" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0185" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0186" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0187" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0188" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0189" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0190" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0191" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0192" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0193" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0194" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0195" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0196" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0197" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0198" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0199" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0200" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0201" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0202" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0203" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0204" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0205" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0206" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0207" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0208" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0209" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0210" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0211" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0212" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0213" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0214" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0215" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0216" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0217" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0218" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0219" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0220" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0221" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0222" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0223" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0224" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0225" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0226" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0227" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0228" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0229" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0230" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0231" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0232" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0233" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0234" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0235" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0236" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0237" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0238" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI HEY!!0239" x="1" y="684" width="615" height="447" rotated="true" frameX="-6" frameY="-0" frameWidth="454" frameHeight="615"/>
+	<SubTexture name="LEGI Idle Dance0000" x="612" y="1284" width="602" height="328" rotated="true" frameX="-23" frameY="-6" frameWidth="371" frameHeight="608"/>
+	<SubTexture name="LEGI Idle Dance0001" x="612" y="1284" width="602" height="328" rotated="true" frameX="-23" frameY="-6" frameWidth="371" frameHeight="608"/>
+	<SubTexture name="LEGI Idle Dance0002" x="1071" y="612" width="333" height="605" frameX="-27" frameY="-3" frameWidth="371" frameHeight="608"/>
+	<SubTexture name="LEGI Idle Dance0003" x="1071" y="612" width="333" height="605" frameX="-27" frameY="-3" frameWidth="371" frameHeight="608"/>
+	<SubTexture name="LEGI Idle Dance0004" x="1071" y="612" width="333" height="605" frameX="-27" frameY="-3" frameWidth="371" frameHeight="608"/>
+	<SubTexture name="LEGI Idle Dance0005" x="1217" y="1220" width="595" height="330" rotated="true" frameX="-41" frameY="-13" frameWidth="371" frameHeight="608"/>
+	<SubTexture name="LEGI Idle Dance0006" x="1217" y="1220" width="595" height="330" rotated="true" frameX="-41" frameY="-13" frameWidth="371" frameHeight="608"/>
+	<SubTexture name="LEGI Idle Dance0007" x="1848" y="1" width="329" height="591" frameX="-38" frameY="-17" frameWidth="371" frameHeight="608"/>
+	<SubTexture name="LEGI Idle Dance0008" x="1848" y="1" width="329" height="591" frameX="-38" frameY="-17" frameWidth="371" frameHeight="608"/>
+	<SubTexture name="LEGI Idle Dance0009" x="1848" y="1" width="329" height="591" frameX="-38" frameY="-17" frameWidth="371" frameHeight="608"/>
+	<SubTexture name="LEGI Idle Dance0010" x="1521" y="603" width="323" height="594" frameX="-26" frameY="-14" frameWidth="371" frameHeight="608"/>
+	<SubTexture name="LEGI Idle Dance0011" x="1521" y="603" width="323" height="594" frameX="-26" frameY="-14" frameWidth="371" frameHeight="608"/>
+	<SubTexture name="LEGI Idle Dance0012" x="1521" y="603" width="323" height="594" frameX="-26" frameY="-14" frameWidth="371" frameHeight="608"/>
+	<SubTexture name="LEGI Idle Dance0013" x="1197" y="1" width="321" height="607" frameX="-10" frameY="-1" frameWidth="371" frameHeight="608"/>
+	<SubTexture name="LEGI Idle Dance0014" x="1197" y="1" width="321" height="607" frameX="-10" frameY="-1" frameWidth="371" frameHeight="608"/>
+	<SubTexture name="LEGI Idle Dance0015" x="873" y="1" width="321" height="608" frameX="-5" frameY="-0" frameWidth="371" frameHeight="608"/>
+	<SubTexture name="LEGI Idle Dance0016" x="1" y="1134" width="608" height="324" rotated="true" frameX="-5" frameY="-0" frameWidth="371" frameHeight="608"/>
+	<SubTexture name="LEGI Idle Dance0017" x="1" y="1134" width="608" height="324" rotated="true" frameX="-5" frameY="-0" frameWidth="371" frameHeight="608"/>
+	<SubTexture name="LEGI Idle Dance0018" x="1217" y="1553" width="593" height="332" rotated="true" frameX="-0" frameY="-15" frameWidth="371" frameHeight="608"/>
+	<SubTexture name="LEGI Idle Dance0019" x="1217" y="1553" width="593" height="332" rotated="true" frameX="-0" frameY="-15" frameWidth="371" frameHeight="608"/>
+	<SubTexture name="LEGI Idle Dance0020" x="607" y="1615" width="593" height="330" rotated="true" frameX="-2" frameY="-15" frameWidth="371" frameHeight="608"/>
+	<SubTexture name="LEGI Idle Dance0021" x="1847" y="1189" width="327" height="587" frameX="-11" frameY="-21" frameWidth="371" frameHeight="608"/>
+	<SubTexture name="LEGI Idle Dance0022" x="1847" y="1189" width="327" height="587" frameX="-11" frameY="-21" frameWidth="371" frameHeight="608"/>
+	<SubTexture name="LEGI Idle Dance0023" x="1847" y="1189" width="327" height="587" frameX="-11" frameY="-21" frameWidth="371" frameHeight="608"/>
+	<SubTexture name="LEGI Idle Dance0024" x="1521" y="1" width="324" height="599" frameX="-19" frameY="-8" frameWidth="371" frameHeight="608"/>
+	<SubTexture name="LEGI Idle Dance0025" x="1521" y="1" width="324" height="599" frameX="-19" frameY="-8" frameWidth="371" frameHeight="608"/>
+	<SubTexture name="LEGI Note Down0000" x="1743" y="1888" width="348" height="514" rotated="true" frameX="-0" frameY="-4" frameWidth="514" frameHeight="352"/>
+	<SubTexture name="LEGI Note Down0001" x="1743" y="1888" width="348" height="514" rotated="true" frameX="-0" frameY="-4" frameWidth="514" frameHeight="352"/>
+	<SubTexture name="LEGI Note Down0002" x="2094" y="1779" width="511" height="349" frameX="-1" frameY="-0" frameWidth="514" frameHeight="352"/>
+	<SubTexture name="LEGI Note Down0003" x="2094" y="1779" width="511" height="349" frameX="-1" frameY="-0" frameWidth="514" frameHeight="352"/>
+	<SubTexture name="LEGI Note Down0004" x="2094" y="1779" width="511" height="349" frameX="-1" frameY="-0" frameWidth="514" frameHeight="352"/>
+	<SubTexture name="LEGI Note Down0005" x="2094" y="1779" width="511" height="349" frameX="-1" frameY="-0" frameWidth="514" frameHeight="352"/>
+	<SubTexture name="LEGI Note Down0006" x="2094" y="1779" width="511" height="349" frameX="-1" frameY="-0" frameWidth="514" frameHeight="352"/>
+	<SubTexture name="LEGI Note Down0007" x="2094" y="1779" width="511" height="349" frameX="-1" frameY="-0" frameWidth="514" frameHeight="352"/>
+	<SubTexture name="LEGI Note Down0008" x="2094" y="1779" width="511" height="349" frameX="-1" frameY="-0" frameWidth="514" frameHeight="352"/>
+	<SubTexture name="LEGI Note Down0009" x="2094" y="1779" width="511" height="349" frameX="-1" frameY="-0" frameWidth="514" frameHeight="352"/>
+	<SubTexture name="LEGI Note Left0000" x="2180" y="533" width="461" height="499" rotated="true" frameX="-0" frameY="-4" frameWidth="500" frameHeight="465"/>
+	<SubTexture name="LEGI Note Left0001" x="2180" y="533" width="461" height="499" rotated="true" frameX="-0" frameY="-4" frameWidth="500" frameHeight="465"/>
+	<SubTexture name="LEGI Note Left0002" x="2177" y="1035" width="465" height="492" rotated="true" frameX="-8" frameY="-0" frameWidth="500" frameHeight="465"/>
+	<SubTexture name="LEGI Note Left0003" x="2177" y="1035" width="465" height="492" rotated="true" frameX="-8" frameY="-0" frameWidth="500" frameHeight="465"/>
+	<SubTexture name="LEGI Note Left0004" x="2177" y="1035" width="465" height="492" rotated="true" frameX="-8" frameY="-0" frameWidth="500" frameHeight="465"/>
+	<SubTexture name="LEGI Note Left0005" x="2177" y="1035" width="465" height="492" rotated="true" frameX="-8" frameY="-0" frameWidth="500" frameHeight="465"/>
+	<SubTexture name="LEGI Note Left0006" x="2177" y="1035" width="465" height="492" rotated="true" frameX="-8" frameY="-0" frameWidth="500" frameHeight="465"/>
+	<SubTexture name="LEGI Note Left0007" x="2177" y="1035" width="465" height="492" rotated="true" frameX="-8" frameY="-0" frameWidth="500" frameHeight="465"/>
+	<SubTexture name="LEGI Note Left0008" x="2177" y="1035" width="465" height="492" rotated="true" frameX="-8" frameY="-0" frameWidth="500" frameHeight="465"/>
+	<SubTexture name="LEGI Note Left0009" x="2177" y="1035" width="465" height="492" rotated="true" frameX="-8" frameY="-0" frameWidth="500" frameHeight="465"/>
+	<SubTexture name="LEGI Note Right0000" x="1203" y="1888" width="537" height="473" frameX="-0" frameY="-4" frameWidth="537" frameHeight="477"/>
+	<SubTexture name="LEGI Note Right0001" x="1203" y="1888" width="537" height="473" frameX="-0" frameY="-4" frameWidth="537" frameHeight="477"/>
+	<SubTexture name="LEGI Note Right0002" x="2180" y="1" width="477" height="529" rotated="true" frameX="-0" frameY="-0" frameWidth="537" frameHeight="477"/>
+	<SubTexture name="LEGI Note Right0003" x="2180" y="1" width="477" height="529" rotated="true" frameX="-0" frameY="-0" frameWidth="537" frameHeight="477"/>
+	<SubTexture name="LEGI Note Right0004" x="2180" y="1" width="477" height="529" rotated="true" frameX="-0" frameY="-0" frameWidth="537" frameHeight="477"/>
+	<SubTexture name="LEGI Note Right0005" x="2180" y="1" width="477" height="529" rotated="true" frameX="-0" frameY="-0" frameWidth="537" frameHeight="477"/>
+	<SubTexture name="LEGI Note Right0006" x="2180" y="1" width="477" height="529" rotated="true" frameX="-0" frameY="-0" frameWidth="537" frameHeight="477"/>
+	<SubTexture name="LEGI Note Right0007" x="2180" y="1" width="477" height="529" rotated="true" frameX="-0" frameY="-0" frameWidth="537" frameHeight="477"/>
+	<SubTexture name="LEGI Note Right0008" x="2180" y="1" width="477" height="529" rotated="true" frameX="-0" frameY="-0" frameWidth="537" frameHeight="477"/>
+	<SubTexture name="LEGI Note Right0009" x="2180" y="1" width="477" height="529" rotated="true" frameX="-0" frameY="-0" frameWidth="537" frameHeight="477"/>
+	<SubTexture name="LEGI Note Up0000" x="1" y="1" width="432" height="680" frameX="-5" frameY="-0" frameWidth="437" frameHeight="680"/>
+	<SubTexture name="LEGI Note Up0001" x="1" y="1" width="432" height="680" frameX="-5" frameY="-0" frameWidth="437" frameHeight="680"/>
+	<SubTexture name="LEGI Note Up0002" x="436" y="1" width="434" height="670" frameX="-0" frameY="-9" frameWidth="437" frameHeight="680"/>
+	<SubTexture name="LEGI Note Up0003" x="436" y="1" width="434" height="670" frameX="-0" frameY="-9" frameWidth="437" frameHeight="680"/>
+	<SubTexture name="LEGI Note Up0004" x="436" y="1" width="434" height="670" frameX="-0" frameY="-9" frameWidth="437" frameHeight="680"/>
+	<SubTexture name="LEGI Note Up0005" x="436" y="1" width="434" height="670" frameX="-0" frameY="-9" frameWidth="437" frameHeight="680"/>
+	<SubTexture name="LEGI Note Up0006" x="436" y="1" width="434" height="670" frameX="-0" frameY="-9" frameWidth="437" frameHeight="680"/>
+	<SubTexture name="LEGI Note Up0007" x="436" y="1" width="434" height="670" frameX="-0" frameY="-9" frameWidth="437" frameHeight="680"/>
+	<SubTexture name="LEGI Note Up0008" x="436" y="1" width="434" height="670" frameX="-0" frameY="-9" frameWidth="437" frameHeight="680"/>
+	<SubTexture name="LEGI Note Up0009" x="436" y="1" width="434" height="670" frameX="-0" frameY="-9" frameWidth="437" frameHeight="680"/>
+	<SubTexture name="LEGI Transition0000" x="1848" y="595" width="309" height="591" frameX="-50" frameY="-7" frameWidth="359" frameHeight="603"/>
+	<SubTexture name="LEGI Transition0001" x="1848" y="595" width="309" height="591" frameX="-50" frameY="-7" frameWidth="359" frameHeight="603"/>
+	<SubTexture name="LEGI Transition0002" x="1" y="2101" width="585" height="310" rotated="true" frameX="-48" frameY="-13" frameWidth="359" frameHeight="603"/>
+	<SubTexture name="LEGI Transition0003" x="1" y="2101" width="585" height="310" rotated="true" frameX="-48" frameY="-13" frameWidth="359" frameHeight="603"/>
+	<SubTexture name="LEGI Transition0004" x="589" y="2101" width="584" height="310" rotated="true" frameX="-7" frameY="-17" frameWidth="359" frameHeight="603"/>
+	<SubTexture name="LEGI Transition0005" x="589" y="2101" width="584" height="310" rotated="true" frameX="-7" frameY="-17" frameWidth="359" frameHeight="603"/>
+	<SubTexture name="LEGI Transition0006" x="1" y="1461" width="603" height="311" rotated="true" frameX="-5" frameY="-0" frameWidth="359" frameHeight="603"/>
+	<SubTexture name="LEGI Transition0007" x="1" y="1461" width="603" height="311" rotated="true" frameX="-5" frameY="-0" frameWidth="359" frameHeight="603"/>
+	<SubTexture name="LEGI Transition0008" x="1" y="1775" width="594" height="323" rotated="true" frameX="-0" frameY="-4" frameWidth="359" frameHeight="603"/>
+	<SubTexture name="LEGI Transition0009" x="1" y="1775" width="594" height="323" rotated="true" frameX="-0" frameY="-4" frameWidth="359" frameHeight="603"/>
+	<SubTexture name="LEGI Transition0010" x="1" y="1775" width="594" height="323" rotated="true" frameX="-0" frameY="-4" frameWidth="359" frameHeight="603"/>
+	<SubTexture name="LEGI Transition0011" x="1" y="1775" width="594" height="323" rotated="true" frameX="-0" frameY="-4" frameWidth="359" frameHeight="603"/>
+	<SubTexture name="LEGI Transition0012" x="1" y="1775" width="594" height="323" rotated="true" frameX="-0" frameY="-4" frameWidth="359" frameHeight="603"/>
+	<SubTexture name="LEGI Transition0013" x="1" y="1775" width="594" height="323" rotated="true" frameX="-0" frameY="-4" frameWidth="359" frameHeight="603"/>
+	<SubTexture name="LEGI Transition0014" x="1" y="1775" width="594" height="323" rotated="true" frameX="-0" frameY="-4" frameWidth="359" frameHeight="603"/>
 </TextureAtlas>
