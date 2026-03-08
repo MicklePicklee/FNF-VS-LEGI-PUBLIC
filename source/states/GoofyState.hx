@@ -16,12 +16,10 @@ class GoofyState extends MusicBeatState
     {
         super.create();
 
-        // Show your image (replace 'goofy_image' with your image asset name, no extension)
         goofySprite = new FlxSprite().loadGraphic(Paths.image('goofy_image'));
         goofySprite.screenCenter();
         add(goofySprite);
 
-        // Play your sound (replace 'goofy_audio' with your audio asset name, no extension)
         goofySound = FlxG.sound.play(Paths.sound('goofy_audio'), 1, false, null, true, function()
         {
             transitionToTitle();
@@ -38,14 +36,7 @@ class GoofyState extends MusicBeatState
 
     override function update(elapsed:Float)
     {
-        if (leftState)
-        {
-            super.update(elapsed);
-            return;
-        }
-
-        // Optional: Allow skipping with ENTER/ESCAPE
-        if (FlxG.keys.justPressed.ENTER || FlxG.keys.justPressed.ESCAPE)
+        if (FlxG.keys.justPressed.ENTER || FlxG.keys.justPressed.ESCAPE && !leftState)
         {
             if (goofySound != null) goofySound.stop();
             transitionToTitle();
